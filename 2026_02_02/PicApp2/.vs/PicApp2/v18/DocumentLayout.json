@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Work\\2026_02_02\\PicApp2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{276B1EA3-1531-4673-B67A-4C53F26860B4}|..\\..\\2026_02_04\\ConsoleContactListApp1\\ConsoleContactListApp1.csproj|c:\\work\\2026_02_04\\consolecontactlistapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276B1EA3-1531-4673-B67A-4C53F26860B4}|..\\..\\2026_02_04\\ConsoleContactListApp1\\ConsoleContactListApp1.csproj|c:\\work\\2026_02_04\\consolecontactlistapp1\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{125F3E63-70EC-436C-82CE-29B10D1D96B2}|..\\..\\2026_02_04\\StreamReaderApp1\\StreamReaderApp1.csproj|c:\\work\\2026_02_04\\streamreaderapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD6000FA-6709-416A-A4B0-1CCF08B1F4DA}|..\\..\\2026_02_04\\FileStreamApp1\\FileStreamApp1.csproj|c:\\work\\2026_02_04\\filestreamapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{868D9615-CAF9-4EA3-8182-8CC53B5339F8}|..\\..\\2026_02_04\\GetFileApp1\\GetFileApp1.csproj|c:\\work\\2026_02_04\\getfileapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -19,7 +31,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 181,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,20 +47,72 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Work\\2026_02_04\\ConsoleContactListApp1\\Contact.cs",
+              "RelativeDocumentMoniker": "..\\..\\2026_02_04\\ConsoleContactListApp1\\Contact.cs",
+              "ToolTip": "C:\\Work\\2026_02_04\\ConsoleContactListApp1\\Contact.cs",
+              "RelativeToolTip": "..\\..\\2026_02_04\\ConsoleContactListApp1\\Contact.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAEwBgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T06:24:34.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Work\\2026_02_04\\ConsoleContactListApp1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\2026_02_04\\ConsoleContactListApp1\\Program.cs",
+              "ToolTip": "C:\\Work\\2026_02_04\\ConsoleContactListApp1\\Program.cs",
+              "RelativeToolTip": "..\\..\\2026_02_04\\ConsoleContactListApp1\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBIAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T06:24:14.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Work\\2026_02_04\\StreamReaderApp1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\2026_02_04\\StreamReaderApp1\\Program.cs",
+              "ToolTip": "C:\\Work\\2026_02_04\\StreamReaderApp1\\Program.cs",
+              "RelativeToolTip": "..\\..\\2026_02_04\\StreamReaderApp1\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T06:01:41.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Work\\2026_02_04\\FileStreamApp1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\2026_02_04\\FileStreamApp1\\Program.cs",
+              "ToolTip": "C:\\Work\\2026_02_04\\FileStreamApp1\\Program.cs",
+              "RelativeToolTip": "..\\..\\2026_02_04\\FileStreamApp1\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAzwBMAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T05:09:58.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Work\\2026_02_04\\GetFileApp1\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\2026_02_04\\GetFileApp1\\Program.cs",
               "ToolTip": "C:\\Work\\2026_02_04\\GetFileApp1\\Program.cs",
               "RelativeToolTip": "..\\..\\2026_02_04\\GetFileApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-04T04:37:03.198Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Work\\2026_02_04\\DirectoryApp1\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\2026_02_04\\DirectoryApp1\\Program.cs",
@@ -61,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Work\\2026_02_04\\FileApp1\\Program.cs",
               "RelativeDocumentMoniker": "..\\..\\2026_02_04\\FileApp1\\Program.cs",
