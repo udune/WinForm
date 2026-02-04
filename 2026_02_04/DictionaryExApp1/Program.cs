@@ -25,6 +25,11 @@
             {
                 Console.WriteLine($"Name: {entry.Key}, Age: {entry.Value}");
             }
+
+            foreach (var entry in ages)
+            {
+                Console.WriteLine($"Name: {entry.Key}, Age: {entry.Value}");
+            }
         }
     }
 }

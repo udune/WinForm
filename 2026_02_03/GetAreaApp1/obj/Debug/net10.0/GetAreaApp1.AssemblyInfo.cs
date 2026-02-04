@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GetAreaApp1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+455335cabcff77bb7811aacc892a6b8944ee6f79")]
 [assembly: System.Reflection.AssemblyProductAttribute("GetAreaApp1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GetAreaApp1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
