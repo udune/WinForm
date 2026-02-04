@@ -1,0 +1,10 @@
+C:\Work\2026_01_29\CheckedChanged\bin\Debug\CheckedChanged.exe.config
+C:\Work\2026_01_29\CheckedChanged\bin\Debug\CheckedChanged.exe
+C:\Work\2026_01_29\CheckedChanged\bin\Debug\CheckedChanged.pdb
+C:\Work\2026_01_29\CheckedChanged\obj\Debug\CheckedChanged.csproj.AssemblyReference.cache
+C:\Work\2026_01_29\CheckedChanged\obj\Debug\CheckedChanged.Form1.resources
+C:\Work\2026_01_29\CheckedChanged\obj\Debug\CheckedChanged.Properties.Resources.resources
+C:\Work\2026_01_29\CheckedChanged\obj\Debug\CheckedChanged.csproj.GenerateResource.cache
+C:\Work\2026_01_29\CheckedChanged\obj\Debug\CheckedChanged.csproj.CoreCompileInputs.cache
+C:\Work\2026_01_29\CheckedChanged\obj\Debug\CheckedChanged.exe
+C:\Work\2026_01_29\CheckedChanged\obj\Debug\CheckedChanged.pdb

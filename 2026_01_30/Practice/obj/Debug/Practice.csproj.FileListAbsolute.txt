@@ -1,0 +1,10 @@
+C:\Work\2026_01_30\Practice\bin\Debug\Practice.exe.config
+C:\Work\2026_01_30\Practice\bin\Debug\Practice.exe
+C:\Work\2026_01_30\Practice\bin\Debug\Practice.pdb
+C:\Work\2026_01_30\Practice\obj\Debug\Practice.csproj.AssemblyReference.cache
+C:\Work\2026_01_30\Practice\obj\Debug\Practice.Form1.resources
+C:\Work\2026_01_30\Practice\obj\Debug\Practice.Properties.Resources.resources
+C:\Work\2026_01_30\Practice\obj\Debug\Practice.csproj.GenerateResource.cache
+C:\Work\2026_01_30\Practice\obj\Debug\Practice.csproj.CoreCompileInputs.cache
+C:\Work\2026_01_30\Practice\obj\Debug\Practice.exe
+C:\Work\2026_01_30\Practice\obj\Debug\Practice.pdb

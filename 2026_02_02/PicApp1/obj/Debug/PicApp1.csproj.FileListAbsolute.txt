@@ -1,0 +1,11 @@
+C:\Work\2026_02_02\PicApp1\bin\Debug\PicApp1.exe.config
+C:\Work\2026_02_02\PicApp1\bin\Debug\PicApp1.exe
+C:\Work\2026_02_02\PicApp1\bin\Debug\PicApp1.pdb
+C:\Work\2026_02_02\PicApp1\obj\Debug\PicApp1.csproj.AssemblyReference.cache
+C:\Work\2026_02_02\PicApp1\obj\Debug\PicApp1.Form1.resources
+C:\Work\2026_02_02\PicApp1\obj\Debug\PicApp1.Properties.Resources.resources
+C:\Work\2026_02_02\PicApp1\obj\Debug\PicApp1.csproj.GenerateResource.cache
+C:\Work\2026_02_02\PicApp1\obj\Debug\PicApp1.csproj.CoreCompileInputs.cache
+C:\Work\2026_02_02\PicApp1\obj\Debug\PicApp1.exe
+C:\Work\2026_02_02\PicApp1\obj\Debug\PicApp1.pdb
+C:\Work\2026_02_02\PicApp1\bin\Debug\Img\sample_640×426.jpg

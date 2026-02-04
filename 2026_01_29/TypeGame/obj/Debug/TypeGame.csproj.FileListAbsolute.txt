@@ -1,0 +1,10 @@
+C:\Work\2026_01_29\TypeGame\bin\Debug\TypeGame.exe.config
+C:\Work\2026_01_29\TypeGame\bin\Debug\TypeGame.exe
+C:\Work\2026_01_29\TypeGame\bin\Debug\TypeGame.pdb
+C:\Work\2026_01_29\TypeGame\obj\Debug\TypeGame.csproj.AssemblyReference.cache
+C:\Work\2026_01_29\TypeGame\obj\Debug\TypeGame.Form1.resources
+C:\Work\2026_01_29\TypeGame\obj\Debug\TypeGame.Properties.Resources.resources
+C:\Work\2026_01_29\TypeGame\obj\Debug\TypeGame.csproj.GenerateResource.cache
+C:\Work\2026_01_29\TypeGame\obj\Debug\TypeGame.csproj.CoreCompileInputs.cache
+C:\Work\2026_01_29\TypeGame\obj\Debug\TypeGame.exe
+C:\Work\2026_01_29\TypeGame\obj\Debug\TypeGame.pdb

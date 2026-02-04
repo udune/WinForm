@@ -1,0 +1,10 @@
+C:\Work\2026_02_03\RegistrationApp\bin\Debug\RegistrationApp.exe.config
+C:\Work\2026_02_03\RegistrationApp\bin\Debug\RegistrationApp.exe
+C:\Work\2026_02_03\RegistrationApp\bin\Debug\RegistrationApp.pdb
+C:\Work\2026_02_03\RegistrationApp\obj\Debug\RegistrationApp.csproj.AssemblyReference.cache
+C:\Work\2026_02_03\RegistrationApp\obj\Debug\RegistrationApp.Form1.resources
+C:\Work\2026_02_03\RegistrationApp\obj\Debug\RegistrationApp.Properties.Resources.resources
+C:\Work\2026_02_03\RegistrationApp\obj\Debug\RegistrationApp.csproj.GenerateResource.cache
+C:\Work\2026_02_03\RegistrationApp\obj\Debug\RegistrationApp.csproj.CoreCompileInputs.cache
+C:\Work\2026_02_03\RegistrationApp\obj\Debug\RegistrationApp.exe
+C:\Work\2026_02_03\RegistrationApp\obj\Debug\RegistrationApp.pdb

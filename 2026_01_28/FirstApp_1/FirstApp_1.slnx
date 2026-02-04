@@ -1,0 +1,31 @@
+<Solution>
+  <Project Path="../FirstApp_10/FirstApp_10.csproj" />
+  <Project Path="../FirstApp_11/FirstApp_11.csproj" />
+  <Project Path="../FirstApp_12/FirstApp_12.csproj" />
+  <Project Path="../FirstApp_13/FirstApp_13.csproj" />
+  <Project Path="../FirstApp_14/FirstApp_14.csproj" />
+  <Project Path="../FirstApp_15/FirstApp_15.csproj" />
+  <Project Path="../FirstApp_16/FirstApp_16.csproj" />
+  <Project Path="../FirstApp_17/FirstApp_17.csproj" />
+  <Project Path="../FirstApp_18/FirstApp_18.csproj" />
+  <Project Path="../FirstApp_19/FirstApp_19.csproj" />
+  <Project Path="../FirstApp_2/FirstApp_2.csproj" />
+  <Project Path="../FirstApp_20/FirstApp_20.csproj" />
+  <Project Path="../FirstApp_21/FirstApp_21.csproj" />
+  <Project Path="../FirstApp_22/FirstApp_22.csproj" />
+  <Project Path="../FirstApp_23/FirstApp_23.csproj" />
+  <Project Path="../FirstApp_24/FirstApp_24.csproj" Id="5c31dcfc-dbf3-4d52-a97e-a2391d636cc0" />
+  <Project Path="../FirstApp_25/FirstApp_25.csproj" Id="875f4477-9253-4777-8b22-5f85072c019a" />
+  <Project Path="../FirstApp_26/FirstApp_26.csproj" Id="b69add18-31c4-41bf-9c06-ea8f00333cbc" />
+  <Project Path="../FirstApp_27/FirstApp_27.csproj" Id="0ae68f23-700a-403e-812f-37f989819f0c" />
+  <Project Path="../FirstApp_28/FirstApp_28.csproj" Id="6ed7eff4-8502-4624-833f-195df7aff42a" />
+  <Project Path="../FirstApp_29/FirstApp_29.csproj" Id="4208e092-c530-4dca-a30d-dd48053811d2" />
+  <Project Path="../FirstApp_3/FirstApp_3.csproj" />
+  <Project Path="../FirstApp_4/FirstApp_4.csproj" />
+  <Project Path="../FirstApp_5/FirstApp_5.csproj" />
+  <Project Path="../FirstApp_6/FirstApp_6.csproj" />
+  <Project Path="../FirstApp_7/FirstApp_7.csproj" />
+  <Project Path="../FirstApp_8/FirstApp_8.csproj" />
+  <Project Path="../FirstApp_9/FirstApp_9.csproj" />
+  <Project Path="FirstApp_1.csproj" />
+</Solution>

@@ -1,0 +1,14 @@
+C:\Work\2026_02_03\GetAreaApp1\bin\Debug\net10.0\GetAreaApp1.exe
+C:\Work\2026_02_03\GetAreaApp1\bin\Debug\net10.0\GetAreaApp1.deps.json
+C:\Work\2026_02_03\GetAreaApp1\bin\Debug\net10.0\GetAreaApp1.runtimeconfig.json
+C:\Work\2026_02_03\GetAreaApp1\bin\Debug\net10.0\GetAreaApp1.dll
+C:\Work\2026_02_03\GetAreaApp1\bin\Debug\net10.0\GetAreaApp1.pdb
+C:\Work\2026_02_03\GetAreaApp1\obj\Debug\net10.0\GetAreaApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\2026_02_03\GetAreaApp1\obj\Debug\net10.0\GetAreaApp1.AssemblyInfoInputs.cache
+C:\Work\2026_02_03\GetAreaApp1\obj\Debug\net10.0\GetAreaApp1.AssemblyInfo.cs
+C:\Work\2026_02_03\GetAreaApp1\obj\Debug\net10.0\GetAreaApp1.csproj.CoreCompileInputs.cache
+C:\Work\2026_02_03\GetAreaApp1\obj\Debug\net10.0\GetAreaApp1.dll
+C:\Work\2026_02_03\GetAreaApp1\obj\Debug\net10.0\refint\GetAreaApp1.dll
+C:\Work\2026_02_03\GetAreaApp1\obj\Debug\net10.0\GetAreaApp1.pdb
+C:\Work\2026_02_03\GetAreaApp1\obj\Debug\net10.0\GetAreaApp1.genruntimeconfig.cache
+C:\Work\2026_02_03\GetAreaApp1\obj\Debug\net10.0\ref\GetAreaApp1.dll

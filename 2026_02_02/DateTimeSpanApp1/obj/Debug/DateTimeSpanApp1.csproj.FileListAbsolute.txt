@@ -1,0 +1,10 @@
+C:\Work\2026_02_02\DateTimeSpanApp1\bin\Debug\DateTimeSpanApp1.exe.config
+C:\Work\2026_02_02\DateTimeSpanApp1\bin\Debug\DateTimeSpanApp1.exe
+C:\Work\2026_02_02\DateTimeSpanApp1\bin\Debug\DateTimeSpanApp1.pdb
+C:\Work\2026_02_02\DateTimeSpanApp1\obj\Debug\DateTimeSpanApp1.csproj.AssemblyReference.cache
+C:\Work\2026_02_02\DateTimeSpanApp1\obj\Debug\DateTimeSpanApp1.Form1.resources
+C:\Work\2026_02_02\DateTimeSpanApp1\obj\Debug\DateTimeSpanApp1.Properties.Resources.resources
+C:\Work\2026_02_02\DateTimeSpanApp1\obj\Debug\DateTimeSpanApp1.csproj.GenerateResource.cache
+C:\Work\2026_02_02\DateTimeSpanApp1\obj\Debug\DateTimeSpanApp1.csproj.CoreCompileInputs.cache
+C:\Work\2026_02_02\DateTimeSpanApp1\obj\Debug\DateTimeSpanApp1.exe
+C:\Work\2026_02_02\DateTimeSpanApp1\obj\Debug\DateTimeSpanApp1.pdb

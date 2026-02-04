@@ -1,0 +1,14 @@
+C:\Work\2026_02_04\ListForeachApp1\bin\Debug\net10.0\ListForeachApp1.exe
+C:\Work\2026_02_04\ListForeachApp1\bin\Debug\net10.0\ListForeachApp1.deps.json
+C:\Work\2026_02_04\ListForeachApp1\bin\Debug\net10.0\ListForeachApp1.runtimeconfig.json
+C:\Work\2026_02_04\ListForeachApp1\bin\Debug\net10.0\ListForeachApp1.dll
+C:\Work\2026_02_04\ListForeachApp1\bin\Debug\net10.0\ListForeachApp1.pdb
+C:\Work\2026_02_04\ListForeachApp1\obj\Debug\net10.0\ListForeachApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\2026_02_04\ListForeachApp1\obj\Debug\net10.0\ListForeachApp1.AssemblyInfoInputs.cache
+C:\Work\2026_02_04\ListForeachApp1\obj\Debug\net10.0\ListForeachApp1.AssemblyInfo.cs
+C:\Work\2026_02_04\ListForeachApp1\obj\Debug\net10.0\ListForeachApp1.csproj.CoreCompileInputs.cache
+C:\Work\2026_02_04\ListForeachApp1\obj\Debug\net10.0\ListForeachApp1.dll
+C:\Work\2026_02_04\ListForeachApp1\obj\Debug\net10.0\refint\ListForeachApp1.dll
+C:\Work\2026_02_04\ListForeachApp1\obj\Debug\net10.0\ListForeachApp1.pdb
+C:\Work\2026_02_04\ListForeachApp1\obj\Debug\net10.0\ListForeachApp1.genruntimeconfig.cache
+C:\Work\2026_02_04\ListForeachApp1\obj\Debug\net10.0\ref\ListForeachApp1.dll

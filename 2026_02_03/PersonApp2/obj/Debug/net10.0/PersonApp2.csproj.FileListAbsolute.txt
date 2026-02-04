@@ -1,0 +1,14 @@
+C:\Work\2026_02_03\PersonApp2\bin\Debug\net10.0\PersonApp2.exe
+C:\Work\2026_02_03\PersonApp2\bin\Debug\net10.0\PersonApp2.deps.json
+C:\Work\2026_02_03\PersonApp2\bin\Debug\net10.0\PersonApp2.runtimeconfig.json
+C:\Work\2026_02_03\PersonApp2\bin\Debug\net10.0\PersonApp2.dll
+C:\Work\2026_02_03\PersonApp2\bin\Debug\net10.0\PersonApp2.pdb
+C:\Work\2026_02_03\PersonApp2\obj\Debug\net10.0\PersonApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\2026_02_03\PersonApp2\obj\Debug\net10.0\PersonApp2.AssemblyInfoInputs.cache
+C:\Work\2026_02_03\PersonApp2\obj\Debug\net10.0\PersonApp2.AssemblyInfo.cs
+C:\Work\2026_02_03\PersonApp2\obj\Debug\net10.0\PersonApp2.csproj.CoreCompileInputs.cache
+C:\Work\2026_02_03\PersonApp2\obj\Debug\net10.0\PersonApp2.dll
+C:\Work\2026_02_03\PersonApp2\obj\Debug\net10.0\refint\PersonApp2.dll
+C:\Work\2026_02_03\PersonApp2\obj\Debug\net10.0\PersonApp2.pdb
+C:\Work\2026_02_03\PersonApp2\obj\Debug\net10.0\PersonApp2.genruntimeconfig.cache
+C:\Work\2026_02_03\PersonApp2\obj\Debug\net10.0\ref\PersonApp2.dll

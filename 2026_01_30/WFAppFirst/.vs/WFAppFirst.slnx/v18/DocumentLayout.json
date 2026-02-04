@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Work\\2026_01_29\\WFAppFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6D8BAB-8B89-4666-98FF-DB16E54CFE73}|..\\PicApp2\\PicApp2.csproj|c:\\work\\2026_01_29\\picapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B6D8BAB-8B89-4666-98FF-DB16E54CFE73}|..\\PicApp2\\PicApp2.csproj|c:\\work\\2026_01_29\\picapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BE6B93-7634-4FE0-A8C5-30974F324B44}|..\\..\\2026_02_02\\PicApp1\\PicApp1.csproj|c:\\work\\2026_02_02\\picapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BE6B93-7634-4FE0-A8C5-30974F324B44}|..\\..\\2026_02_02\\PicApp1\\PicApp1.csproj|c:\\work\\2026_02_02\\picapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BE6B93-7634-4FE0-A8C5-30974F324B44}|..\\..\\2026_02_02\\PicApp1\\PicApp1.csproj|c:\\work\\2026_02_02\\picapp1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 181,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Work\\2026_02_02\\PicApp1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\2026_02_02\\PicApp1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Work\\2026_02_02\\PicApp1\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\..\\2026_02_02\\PicApp1\\Form1.Designer.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAIAxwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T01:18:32.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Work\\2026_01_29\\PicApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\PicApp2\\Form1.cs",
+              "ToolTip": "C:\\Work\\2026_01_29\\PicApp2\\Form1.cs",
+              "RelativeToolTip": "..\\PicApp2\\Form1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAjwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T01:17:33.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Work\\2026_01_29\\PicApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\PicApp2\\Form1.cs",
+              "ToolTip": "C:\\Work\\2026_01_29\\PicApp2\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\PicApp2\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T01:16:39.712Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Work\\2026_02_02\\PicApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\2026_02_02\\PicApp1\\Form1.cs",
+              "ToolTip": "C:\\Work\\2026_02_02\\PicApp1\\Form1.cs",
+              "RelativeToolTip": "..\\..\\2026_02_02\\PicApp1\\Form1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAjwBAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T01:01:39.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Work\\2026_02_02\\PicApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\2026_02_02\\PicApp1\\Form1.cs",
+              "ToolTip": "C:\\Work\\2026_02_02\\PicApp1\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\..\\2026_02_02\\PicApp1\\Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T01:00:05.024Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 219,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

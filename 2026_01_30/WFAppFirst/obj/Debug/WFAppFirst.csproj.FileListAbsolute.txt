@@ -1,0 +1,10 @@
+C:\Work\2026_01_29\WFAppFirst\bin\Debug\WFAppFirst.exe.config
+C:\Work\2026_01_29\WFAppFirst\bin\Debug\WFAppFirst.exe
+C:\Work\2026_01_29\WFAppFirst\bin\Debug\WFAppFirst.pdb
+C:\Work\2026_01_29\WFAppFirst\obj\Debug\WFAppFirst.csproj.AssemblyReference.cache
+C:\Work\2026_01_29\WFAppFirst\obj\Debug\WFAppFirst.Properties.Resources.resources
+C:\Work\2026_01_29\WFAppFirst\obj\Debug\WFAppFirst.csproj.GenerateResource.cache
+C:\Work\2026_01_29\WFAppFirst\obj\Debug\WFAppFirst.csproj.CoreCompileInputs.cache
+C:\Work\2026_01_29\WFAppFirst\obj\Debug\WFAppFirst.exe
+C:\Work\2026_01_29\WFAppFirst\obj\Debug\WFAppFirst.pdb
+C:\Work\2026_01_29\WFAppFirst\obj\Debug\WFAppFirst.Form1.resources

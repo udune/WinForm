@@ -1,0 +1,14 @@
+C:\Work\2026_02_03\ArrayApp1\bin\Debug\net10.0\ArrayApp1.exe
+C:\Work\2026_02_03\ArrayApp1\bin\Debug\net10.0\ArrayApp1.deps.json
+C:\Work\2026_02_03\ArrayApp1\bin\Debug\net10.0\ArrayApp1.runtimeconfig.json
+C:\Work\2026_02_03\ArrayApp1\bin\Debug\net10.0\ArrayApp1.dll
+C:\Work\2026_02_03\ArrayApp1\bin\Debug\net10.0\ArrayApp1.pdb
+C:\Work\2026_02_03\ArrayApp1\obj\Debug\net10.0\ArrayApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\2026_02_03\ArrayApp1\obj\Debug\net10.0\ArrayApp1.AssemblyInfoInputs.cache
+C:\Work\2026_02_03\ArrayApp1\obj\Debug\net10.0\ArrayApp1.AssemblyInfo.cs
+C:\Work\2026_02_03\ArrayApp1\obj\Debug\net10.0\ArrayApp1.csproj.CoreCompileInputs.cache
+C:\Work\2026_02_03\ArrayApp1\obj\Debug\net10.0\ArrayApp1.dll
+C:\Work\2026_02_03\ArrayApp1\obj\Debug\net10.0\refint\ArrayApp1.dll
+C:\Work\2026_02_03\ArrayApp1\obj\Debug\net10.0\ArrayApp1.pdb
+C:\Work\2026_02_03\ArrayApp1\obj\Debug\net10.0\ArrayApp1.genruntimeconfig.cache
+C:\Work\2026_02_03\ArrayApp1\obj\Debug\net10.0\ref\ArrayApp1.dll

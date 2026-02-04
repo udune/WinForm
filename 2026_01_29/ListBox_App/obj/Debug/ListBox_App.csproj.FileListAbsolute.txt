@@ -1,0 +1,10 @@
+C:\Work\2026_01_29\ListBox_App\bin\Debug\ListBox_App.exe.config
+C:\Work\2026_01_29\ListBox_App\bin\Debug\ListBox_App.exe
+C:\Work\2026_01_29\ListBox_App\bin\Debug\ListBox_App.pdb
+C:\Work\2026_01_29\ListBox_App\obj\Debug\ListBox_App.csproj.AssemblyReference.cache
+C:\Work\2026_01_29\ListBox_App\obj\Debug\ListBox_App.Form1.resources
+C:\Work\2026_01_29\ListBox_App\obj\Debug\ListBox_App.Properties.Resources.resources
+C:\Work\2026_01_29\ListBox_App\obj\Debug\ListBox_App.csproj.GenerateResource.cache
+C:\Work\2026_01_29\ListBox_App\obj\Debug\ListBox_App.csproj.CoreCompileInputs.cache
+C:\Work\2026_01_29\ListBox_App\obj\Debug\ListBox_App.exe
+C:\Work\2026_01_29\ListBox_App\obj\Debug\ListBox_App.pdb

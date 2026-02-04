@@ -1,0 +1,10 @@
+C:\Work\2026_02_03\FoodDictionaryApp1\bin\Debug\FoodDictionaryApp1.exe.config
+C:\Work\2026_02_03\FoodDictionaryApp1\bin\Debug\FoodDictionaryApp1.exe
+C:\Work\2026_02_03\FoodDictionaryApp1\bin\Debug\FoodDictionaryApp1.pdb
+C:\Work\2026_02_03\FoodDictionaryApp1\obj\Debug\FoodDictionaryApp1.csproj.AssemblyReference.cache
+C:\Work\2026_02_03\FoodDictionaryApp1\obj\Debug\FoodDictionaryApp1.Form1.resources
+C:\Work\2026_02_03\FoodDictionaryApp1\obj\Debug\FoodDictionaryApp1.Properties.Resources.resources
+C:\Work\2026_02_03\FoodDictionaryApp1\obj\Debug\FoodDictionaryApp1.csproj.GenerateResource.cache
+C:\Work\2026_02_03\FoodDictionaryApp1\obj\Debug\FoodDictionaryApp1.csproj.CoreCompileInputs.cache
+C:\Work\2026_02_03\FoodDictionaryApp1\obj\Debug\FoodDictionaryApp1.exe
+C:\Work\2026_02_03\FoodDictionaryApp1\obj\Debug\FoodDictionaryApp1.pdb

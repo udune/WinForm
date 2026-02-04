@@ -1,0 +1,10 @@
+C:\Work\2026_02_02\ProgressBarApp1\bin\Debug\ProgressBarApp1.exe.config
+C:\Work\2026_02_02\ProgressBarApp1\bin\Debug\ProgressBarApp1.exe
+C:\Work\2026_02_02\ProgressBarApp1\bin\Debug\ProgressBarApp1.pdb
+C:\Work\2026_02_02\ProgressBarApp1\obj\Debug\ProgressBarApp1.csproj.AssemblyReference.cache
+C:\Work\2026_02_02\ProgressBarApp1\obj\Debug\ProgressBarApp1.Form1.resources
+C:\Work\2026_02_02\ProgressBarApp1\obj\Debug\ProgressBarApp1.Properties.Resources.resources
+C:\Work\2026_02_02\ProgressBarApp1\obj\Debug\ProgressBarApp1.csproj.GenerateResource.cache
+C:\Work\2026_02_02\ProgressBarApp1\obj\Debug\ProgressBarApp1.csproj.CoreCompileInputs.cache
+C:\Work\2026_02_02\ProgressBarApp1\obj\Debug\ProgressBarApp1.exe
+C:\Work\2026_02_02\ProgressBarApp1\obj\Debug\ProgressBarApp1.pdb

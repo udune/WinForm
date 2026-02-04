@@ -1,0 +1,10 @@
+C:\Work\2026_02_02\ReservationApp\bin\Debug\ReservationApp.exe.config
+C:\Work\2026_02_02\ReservationApp\bin\Debug\ReservationApp.exe
+C:\Work\2026_02_02\ReservationApp\bin\Debug\ReservationApp.pdb
+C:\Work\2026_02_02\ReservationApp\obj\Debug\ReservationApp.csproj.AssemblyReference.cache
+C:\Work\2026_02_02\ReservationApp\obj\Debug\ReservationApp.Form1.resources
+C:\Work\2026_02_02\ReservationApp\obj\Debug\ReservationApp.Properties.Resources.resources
+C:\Work\2026_02_02\ReservationApp\obj\Debug\ReservationApp.csproj.GenerateResource.cache
+C:\Work\2026_02_02\ReservationApp\obj\Debug\ReservationApp.csproj.CoreCompileInputs.cache
+C:\Work\2026_02_02\ReservationApp\obj\Debug\ReservationApp.exe
+C:\Work\2026_02_02\ReservationApp\obj\Debug\ReservationApp.pdb

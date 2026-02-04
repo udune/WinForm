@@ -1,0 +1,14 @@
+C:\Work\2026_02_02\CalculatorApp1\bin\Debug\net10.0\CalculatorApp1.exe
+C:\Work\2026_02_02\CalculatorApp1\bin\Debug\net10.0\CalculatorApp1.deps.json
+C:\Work\2026_02_02\CalculatorApp1\bin\Debug\net10.0\CalculatorApp1.runtimeconfig.json
+C:\Work\2026_02_02\CalculatorApp1\bin\Debug\net10.0\CalculatorApp1.dll
+C:\Work\2026_02_02\CalculatorApp1\bin\Debug\net10.0\CalculatorApp1.pdb
+C:\Work\2026_02_02\CalculatorApp1\obj\Debug\net10.0\CalculatorApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\2026_02_02\CalculatorApp1\obj\Debug\net10.0\CalculatorApp1.AssemblyInfoInputs.cache
+C:\Work\2026_02_02\CalculatorApp1\obj\Debug\net10.0\CalculatorApp1.AssemblyInfo.cs
+C:\Work\2026_02_02\CalculatorApp1\obj\Debug\net10.0\CalculatorApp1.csproj.CoreCompileInputs.cache
+C:\Work\2026_02_02\CalculatorApp1\obj\Debug\net10.0\CalculatorApp1.dll
+C:\Work\2026_02_02\CalculatorApp1\obj\Debug\net10.0\refint\CalculatorApp1.dll
+C:\Work\2026_02_02\CalculatorApp1\obj\Debug\net10.0\CalculatorApp1.pdb
+C:\Work\2026_02_02\CalculatorApp1\obj\Debug\net10.0\CalculatorApp1.genruntimeconfig.cache
+C:\Work\2026_02_02\CalculatorApp1\obj\Debug\net10.0\ref\CalculatorApp1.dll

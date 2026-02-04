@@ -1,0 +1,10 @@
+C:\Work\2026_01_29\CheckBox_Sample\bin\Debug\CheckBox_Sample.exe.config
+C:\Work\2026_01_29\CheckBox_Sample\bin\Debug\CheckBox_Sample.exe
+C:\Work\2026_01_29\CheckBox_Sample\bin\Debug\CheckBox_Sample.pdb
+C:\Work\2026_01_29\CheckBox_Sample\obj\Debug\CheckBox_Sample.csproj.AssemblyReference.cache
+C:\Work\2026_01_29\CheckBox_Sample\obj\Debug\CheckBox_Sample.Form1.resources
+C:\Work\2026_01_29\CheckBox_Sample\obj\Debug\CheckBox_Sample.Properties.Resources.resources
+C:\Work\2026_01_29\CheckBox_Sample\obj\Debug\CheckBox_Sample.csproj.GenerateResource.cache
+C:\Work\2026_01_29\CheckBox_Sample\obj\Debug\CheckBox_Sample.csproj.CoreCompileInputs.cache
+C:\Work\2026_01_29\CheckBox_Sample\obj\Debug\CheckBox_Sample.exe
+C:\Work\2026_01_29\CheckBox_Sample\obj\Debug\CheckBox_Sample.pdb

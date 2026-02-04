@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ListForeachApp1/1.0.0": {
+        "runtime": {
+          "ListForeachApp1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ListForeachApp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

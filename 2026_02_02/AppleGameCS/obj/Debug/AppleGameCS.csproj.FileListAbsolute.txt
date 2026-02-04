@@ -1,0 +1,16 @@
+C:\Work\2026_02_02\AppleGameCS\bin\Debug\apple.png
+C:\Work\2026_02_02\AppleGameCS\bin\Debug\gar.wav
+C:\Work\2026_02_02\AppleGameCS\bin\Debug\pop.wav
+C:\Work\2026_02_02\AppleGameCS\bin\Debug\AppleGameCS.exe.config
+C:\Work\2026_02_02\AppleGameCS\bin\Debug\AppleGameCS.exe
+C:\Work\2026_02_02\AppleGameCS\bin\Debug\AppleGameCS.pdb
+C:\Work\2026_02_02\AppleGameCS\obj\Debug\AppleGameCS.csproj.AssemblyReference.cache
+C:\Work\2026_02_02\AppleGameCS\obj\Debug\Interop.MediaPlayer.dll
+C:\Work\2026_02_02\AppleGameCS\obj\Debug\Interop.WMPLib.dll
+C:\Work\2026_02_02\AppleGameCS\obj\Debug\AppleGameCS.csproj.ResolveComReference.cache
+C:\Work\2026_02_02\AppleGameCS\obj\Debug\AppleGameCS.MainForm.resources
+C:\Work\2026_02_02\AppleGameCS\obj\Debug\AppleGameCS.Properties.Resources.resources
+C:\Work\2026_02_02\AppleGameCS\obj\Debug\AppleGameCS.csproj.GenerateResource.cache
+C:\Work\2026_02_02\AppleGameCS\obj\Debug\AppleGameCS.csproj.CoreCompileInputs.cache
+C:\Work\2026_02_02\AppleGameCS\obj\Debug\AppleGameCS.exe
+C:\Work\2026_02_02\AppleGameCS\obj\Debug\AppleGameCS.pdb

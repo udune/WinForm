@@ -1,0 +1,14 @@
+C:\Work\2026_01_28\FirstApp_1\bin\Debug\net10.0\FirstApp_1.exe
+C:\Work\2026_01_28\FirstApp_1\bin\Debug\net10.0\FirstApp_1.deps.json
+C:\Work\2026_01_28\FirstApp_1\bin\Debug\net10.0\FirstApp_1.runtimeconfig.json
+C:\Work\2026_01_28\FirstApp_1\bin\Debug\net10.0\FirstApp_1.dll
+C:\Work\2026_01_28\FirstApp_1\bin\Debug\net10.0\FirstApp_1.pdb
+C:\Work\2026_01_28\FirstApp_1\obj\Debug\net10.0\FirstApp_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\2026_01_28\FirstApp_1\obj\Debug\net10.0\FirstApp_1.AssemblyInfoInputs.cache
+C:\Work\2026_01_28\FirstApp_1\obj\Debug\net10.0\FirstApp_1.AssemblyInfo.cs
+C:\Work\2026_01_28\FirstApp_1\obj\Debug\net10.0\FirstApp_1.csproj.CoreCompileInputs.cache
+C:\Work\2026_01_28\FirstApp_1\obj\Debug\net10.0\FirstApp_1.dll
+C:\Work\2026_01_28\FirstApp_1\obj\Debug\net10.0\refint\FirstApp_1.dll
+C:\Work\2026_01_28\FirstApp_1\obj\Debug\net10.0\FirstApp_1.pdb
+C:\Work\2026_01_28\FirstApp_1\obj\Debug\net10.0\FirstApp_1.genruntimeconfig.cache
+C:\Work\2026_01_28\FirstApp_1\obj\Debug\net10.0\ref\FirstApp_1.dll

@@ -1,0 +1,14 @@
+C:\Work\2026_02_03\DictionaryApp1\bin\Debug\net10.0\DictionaryApp1.exe
+C:\Work\2026_02_03\DictionaryApp1\bin\Debug\net10.0\DictionaryApp1.deps.json
+C:\Work\2026_02_03\DictionaryApp1\bin\Debug\net10.0\DictionaryApp1.runtimeconfig.json
+C:\Work\2026_02_03\DictionaryApp1\bin\Debug\net10.0\DictionaryApp1.dll
+C:\Work\2026_02_03\DictionaryApp1\bin\Debug\net10.0\DictionaryApp1.pdb
+C:\Work\2026_02_03\DictionaryApp1\obj\Debug\net10.0\DictionaryApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\2026_02_03\DictionaryApp1\obj\Debug\net10.0\DictionaryApp1.AssemblyInfoInputs.cache
+C:\Work\2026_02_03\DictionaryApp1\obj\Debug\net10.0\DictionaryApp1.AssemblyInfo.cs
+C:\Work\2026_02_03\DictionaryApp1\obj\Debug\net10.0\DictionaryApp1.csproj.CoreCompileInputs.cache
+C:\Work\2026_02_03\DictionaryApp1\obj\Debug\net10.0\DictionaryApp1.dll
+C:\Work\2026_02_03\DictionaryApp1\obj\Debug\net10.0\refint\DictionaryApp1.dll
+C:\Work\2026_02_03\DictionaryApp1\obj\Debug\net10.0\DictionaryApp1.pdb
+C:\Work\2026_02_03\DictionaryApp1\obj\Debug\net10.0\DictionaryApp1.genruntimeconfig.cache
+C:\Work\2026_02_03\DictionaryApp1\obj\Debug\net10.0\ref\DictionaryApp1.dll

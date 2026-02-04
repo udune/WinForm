@@ -1,0 +1,14 @@
+C:\Work\2026_02_02\ClassConsoleApp\bin\Debug\net10.0\ClassConsoleApp.exe
+C:\Work\2026_02_02\ClassConsoleApp\bin\Debug\net10.0\ClassConsoleApp.deps.json
+C:\Work\2026_02_02\ClassConsoleApp\bin\Debug\net10.0\ClassConsoleApp.runtimeconfig.json
+C:\Work\2026_02_02\ClassConsoleApp\bin\Debug\net10.0\ClassConsoleApp.dll
+C:\Work\2026_02_02\ClassConsoleApp\bin\Debug\net10.0\ClassConsoleApp.pdb
+C:\Work\2026_02_02\ClassConsoleApp\obj\Debug\net10.0\ClassConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\2026_02_02\ClassConsoleApp\obj\Debug\net10.0\ClassConsoleApp.AssemblyInfoInputs.cache
+C:\Work\2026_02_02\ClassConsoleApp\obj\Debug\net10.0\ClassConsoleApp.AssemblyInfo.cs
+C:\Work\2026_02_02\ClassConsoleApp\obj\Debug\net10.0\ClassConsoleApp.csproj.CoreCompileInputs.cache
+C:\Work\2026_02_02\ClassConsoleApp\obj\Debug\net10.0\ClassConsoleApp.dll
+C:\Work\2026_02_02\ClassConsoleApp\obj\Debug\net10.0\refint\ClassConsoleApp.dll
+C:\Work\2026_02_02\ClassConsoleApp\obj\Debug\net10.0\ClassConsoleApp.pdb
+C:\Work\2026_02_02\ClassConsoleApp\obj\Debug\net10.0\ClassConsoleApp.genruntimeconfig.cache
+C:\Work\2026_02_02\ClassConsoleApp\obj\Debug\net10.0\ref\ClassConsoleApp.dll

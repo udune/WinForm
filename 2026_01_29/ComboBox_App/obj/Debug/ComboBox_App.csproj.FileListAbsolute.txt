@@ -1,0 +1,10 @@
+C:\Work\2026_01_29\ComboBox_App\bin\Debug\ComboBox_App.exe.config
+C:\Work\2026_01_29\ComboBox_App\bin\Debug\ComboBox_App.exe
+C:\Work\2026_01_29\ComboBox_App\bin\Debug\ComboBox_App.pdb
+C:\Work\2026_01_29\ComboBox_App\obj\Debug\ComboBox_App.csproj.AssemblyReference.cache
+C:\Work\2026_01_29\ComboBox_App\obj\Debug\ComboBox_App.Properties.Resources.resources
+C:\Work\2026_01_29\ComboBox_App\obj\Debug\ComboBox_App.csproj.GenerateResource.cache
+C:\Work\2026_01_29\ComboBox_App\obj\Debug\ComboBox_App.csproj.CoreCompileInputs.cache
+C:\Work\2026_01_29\ComboBox_App\obj\Debug\ComboBox_App.exe
+C:\Work\2026_01_29\ComboBox_App\obj\Debug\ComboBox_App.pdb
+C:\Work\2026_01_29\ComboBox_App\obj\Debug\ComboBox_App.Fruit.resources

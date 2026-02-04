@@ -1,0 +1,10 @@
+C:\Work\2026_01_29\TestBox_App1\bin\Debug\TestBox_App1.exe.config
+C:\Work\2026_01_29\TestBox_App1\bin\Debug\TestBox_App1.exe
+C:\Work\2026_01_29\TestBox_App1\bin\Debug\TestBox_App1.pdb
+C:\Work\2026_01_29\TestBox_App1\obj\Debug\TestBox_App1.csproj.AssemblyReference.cache
+C:\Work\2026_01_29\TestBox_App1\obj\Debug\TestBox_App1.Form1.resources
+C:\Work\2026_01_29\TestBox_App1\obj\Debug\TestBox_App1.Properties.Resources.resources
+C:\Work\2026_01_29\TestBox_App1\obj\Debug\TestBox_App1.csproj.GenerateResource.cache
+C:\Work\2026_01_29\TestBox_App1\obj\Debug\TestBox_App1.csproj.CoreCompileInputs.cache
+C:\Work\2026_01_29\TestBox_App1\obj\Debug\TestBox_App1.exe
+C:\Work\2026_01_29\TestBox_App1\obj\Debug\TestBox_App1.pdb

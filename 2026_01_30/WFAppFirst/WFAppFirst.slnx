@@ -1,0 +1,18 @@
+<Solution>
+  <Project Path="../../2026_01_30/Practice/Practice.csproj" Id="6a9c397e-a4f2-4fb7-a47c-9ab9b86d2efb" />
+  <Project Path="../../2026_02_02/PicApp1/PicApp1.csproj" Id="d0be6b93-7634-4fe0-a8c5-30974f324b44" />
+  <Project Path="../Button_App1/Button_App1.csproj" Id="c0b771ad-d02d-4e80-ad0a-d1839c987c0f" />
+  <Project Path="../CheckBox_Sample/CheckBox_Sample.csproj" Id="8b3c0ad7-7b48-4c08-85b1-de7789ec0598" />
+  <Project Path="../CheckedChanged/CheckedChanged.csproj" Id="c3083686-b42d-4d6d-8b4b-ba408fa4cec3" />
+  <Project Path="../ComboBox_App/ComboBox_App.csproj" Id="da94864b-6724-4ae6-a509-fa82f4d90a5b" />
+  <Project Path="../ComboBox_App_2/ComboBox_App_2.csproj" Id="ac61b3d9-c16f-4c1e-8722-95261b9f517d" />
+  <Project Path="../ListBox_App/ListBox_App.csproj" Id="ea72baf7-c1f4-437c-819a-c7338400effa" />
+  <Project Path="../MessageBoxApp/MessageBoxApp.csproj" Id="5915eaee-1c98-4e3e-9215-6363ea1db08f" />
+  <Project Path="../Multi_EventHandler/Multi_EventHandler.csproj" Id="3178a0ac-b4ba-4a11-a3a2-3851cbd2c2fb" />
+  <Project Path="../PicApp2/PicApp2.csproj" Id="6b6d8bab-8b89-4666-98ff-db16e54cfe73" />
+  <Project Path="../RadioButton_App/RadioButton_App.csproj" Id="59bd2942-19dc-498a-bcdb-4cda84277777" />
+  <Project Path="../TestBox_App1/TestBox_App1.csproj" Id="c2558447-3581-4560-95bc-7a2233004cfc" />
+  <Project Path="../TextBox_App2/TextBox_App2.csproj" Id="f407e06e-1f0d-4965-9ee6-2f1f6845c729" />
+  <Project Path="../TypeGame/TypeGame.csproj" Id="451bfe44-c2bf-4335-88e4-9c9d78ff9dfe" />
+  <Project Path="WFAppFirst.csproj" Id="e9911bca-42d2-4b53-8bce-82734bd5481a" />
+</Solution>
